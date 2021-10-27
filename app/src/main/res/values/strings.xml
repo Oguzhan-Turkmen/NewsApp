@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_screen_text">Reach all breaking news with this app for free.</string>
+    <string name="second_screen_text">Breaking news all over the world.</string>
+</resources>
