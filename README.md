@@ -7,7 +7,6 @@
 * Jetpack Navigation
 * Room Database
 * View Binding
-* Data Binding
 * Recycler View
 * Splash Screen
 * Pagination
